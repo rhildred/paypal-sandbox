@@ -1,0 +1,29 @@
+{
+    "name": "paypal-sandbox",
+    "version": "1.0.0",
+    "description": "callback from a paypal button in node.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rhildred/paypal-sandbox.git"
+    },
+    "keywords": [
+        "sandbox",
+        "paypal",
+        "node",
+        "callback"
+    ],
+    "author": "Rich Hildred",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rhildred/paypal-sandbox/issues"
+    },
+    "homepage": "https://github.com/rhildred/paypal-sandbox#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
